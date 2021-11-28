@@ -15,6 +15,8 @@
     ]
   },
   "dependencies": {
+    "@temporalio/client": "0.16.0",
+    "@temporalio/worker": "0.16.2",
     "temporalio": "0.16.x"
   },
   "devDependencies": {
