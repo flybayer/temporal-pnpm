@@ -3,6 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@temporalio/client': 0.16.0
   '@temporalio/worker': 0.16.2
+  '@temporalio/workflow': 0.16.0
   eslint: ^7.32.0
   eslint-config-prettier: ^8.3.0
   nodemon: ^2.0.12
@@ -11,6 +12,7 @@ specifiers:
 dependencies:
   '@temporalio/client': 0.16.0
   '@temporalio/worker': 0.16.2
+  '@temporalio/workflow': 0.16.0
   temporalio: 0.16.2
 
 devDependencies:
